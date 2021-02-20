@@ -11,13 +11,42 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d2cc1d1-8788-4f87-93fd-3d410e736704" name="Default Changelist" comment="" />
+    <list default="true" id="0d2cc1d1-8788-4f87-93fd-3d410e736704" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_2_71.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Asteroid_Radar.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Asteroid_Radar.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/BindingAdapters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/BindingAdapters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/adapters/AsteroidsAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/adapters/AsteroidsAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/main/MainFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/udacity/asteroidradar/main/MainFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-land/fragment_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/fragment_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-port/fragment_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-port/fragment_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/asteroid_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/asteroid_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-iw/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-iw/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-ru/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-ru/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_XL_API_30]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[OBHMOFSOWWR8GQ45]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -28,9 +57,9 @@
       <list>
         <option value="Kotlin Script" />
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="valueResourceFile" />
         <option value="layoutResourceFile" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -217,38 +246,42 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="484" y="319" key="AndroidCreateResourceFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613742037311" />
-    <state width="1748" height="239" key="GridCell.Tab.0.bottom" timestamp="1613747312636">
+    <state width="1748" height="318" key="GridCell.Tab.0.bottom" timestamp="1613836080135">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="239" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613747312636" />
+    <state width="1748" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613836080135" />
     <state width="1748" height="276" key="GridCell.Tab.0.bottom/0.25.1792.1008@0.25.1792.1008" timestamp="1613493804416" />
-    <state width="1748" height="239" key="GridCell.Tab.0.center" timestamp="1613747312635">
+    <state width="1748" height="318" key="GridCell.Tab.0.center" timestamp="1613836080134">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="239" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613747312635" />
+    <state width="1748" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613836080134" />
     <state width="1748" height="276" key="GridCell.Tab.0.center/0.25.1792.1008@0.25.1792.1008" timestamp="1613493804415" />
-    <state width="1748" height="239" key="GridCell.Tab.0.left" timestamp="1613747312634">
+    <state width="1748" height="318" key="GridCell.Tab.0.left" timestamp="1613836080134">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="239" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613747312634" />
+    <state width="1748" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613836080134" />
     <state width="1748" height="276" key="GridCell.Tab.0.left/0.25.1792.1008@0.25.1792.1008" timestamp="1613493804415" />
-    <state width="1748" height="239" key="GridCell.Tab.0.right" timestamp="1613747312635">
+    <state width="1748" height="318" key="GridCell.Tab.0.right" timestamp="1613836080135">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="239" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613747312635" />
+    <state width="1748" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613836080135" />
     <state width="1748" height="276" key="GridCell.Tab.0.right/0.25.1792.1008@0.25.1792.1008" timestamp="1613493804415" />
     <state x="676" y="342" key="chooseDestDirectoryDialog" timestamp="1613383721921">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="676" y="342" key="chooseDestDirectoryDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613383721921" />
-    <state x="588" y="301" width="780" height="518" key="find.popup" timestamp="1613746880554">
+    <state x="554" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613754972319">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="588" y="301" width="780" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1613746880554" />
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1613601118388">
+    <state x="554" y="178" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1613754972319" />
+    <state x="588" y="301" width="780" height="518" key="find.popup" timestamp="1613754788056">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1613601118388" />
+    <state x="588" y="301" width="780" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1613754788056" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1613757984844">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1613757984844" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

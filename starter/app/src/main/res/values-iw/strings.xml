@@ -19,4 +19,7 @@
     <string name="not_hazardous_asteroid_image">תמונה של אסטרואיד לא מסוכן</string>
     <string name="this_is_nasa_s_picture_of_day_showing_nothing_yet">זוהי תמונה בשעות היום של נאס"א, שעדיין לא מראה כלום.</string>
     <string name="nasa_picture_of_day_content_description_format">צילום היום של נאס"א: %s</string>
+    <string name="close_approach_data_description">תאריך מתי זה היה קרוב: %s</string>
+    <string name="codename_description">שם קוד: %s</string>
+    <string name="au_info_btn_description">מה זה au?</string>
 </resources>

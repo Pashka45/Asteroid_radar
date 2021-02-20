@@ -19,4 +19,7 @@
     <string name="not_hazardous_asteroid_image">Изображение неопасного астероида</string>
     <string name="this_is_nasa_s_picture_of_day_showing_nothing_yet">Это дневная фотография НАСА, на которой пока ничего не показано.</string>
     <string name="nasa_picture_of_day_content_description_format">Фотография дня НАСА: %s</string>
+    <string name="close_approach_data_description">Дата, когда был близо: %s</string>
+    <string name="codename_description">Кодовое название: %s</string>
+    <string name="au_info_btn_description">Что такое а.е.?</string>
 </resources>

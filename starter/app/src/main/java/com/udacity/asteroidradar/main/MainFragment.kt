@@ -45,7 +45,6 @@ class MainFragment : Fragment() {
     override fun onConfigurationChanged(newConfig: Configuration) {
         super.onConfigurationChanged(newConfig)
         retainInstance = true
-        //handleImageMetrics(newConfig.orientation)
     }
 
     override fun onCreateView(
@@ -81,8 +80,6 @@ class MainFragment : Fragment() {
         })
 
         viewModel.getAsteroidsByFilter(AsteroidFilter.ALL).observe(viewLifecycleOwner, observerCallBack)
-
-        //handleImageMetrics(resources.configuration.orientation)
         setHasOptionsMenu(true)
 
         return binding.root
@@ -102,21 +99,5 @@ class MainFragment : Fragment() {
             }
         ).observe(viewLifecycleOwner, observerCallBack)
         return true
-    }
-
-    private fun handleImageMetrics(orientation: Int) {
-        if (orientation == Configuration.ORIENTATION_LANDSCAPE) {
-            val imageOfTheDay = ConstraintLayout.LayoutParams(
-                ViewGroup.LayoutParams.MATCH_PARENT,
-                300
-            )
-         //   binding.activityMainImageOfTheDayLayout.layoutParams = imageOfTheDay
-        } else if (orientation == Configuration.ORIENTATION_PORTRAIT) {
-            val imageOfTheDay = ConstraintLayout.LayoutParams(
-                ViewGroup.LayoutParams.MATCH_PARENT,
-                ViewGroup.LayoutParams.WRAP_CONTENT
-            )
-         //   binding.activityMainImageOfTheDayLayout.layoutParams = imageOfTheDay
-        }
     }
 }
